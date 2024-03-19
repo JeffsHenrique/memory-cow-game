@@ -2,7 +2,7 @@
 
 This project was made in class by [B7Web](https://b7web.com.br)
 
-Give it a look: [Click here and have fun!](https://jeffshenrique.github.io/memory-cow-game/) 😄
+Give it a look: [Click here and have fun!](https://memory-cow-game.vercel.app/) 😄
 
 ## Available Scripts
 
